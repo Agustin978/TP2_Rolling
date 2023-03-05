@@ -21,3 +21,5 @@ Ejercicio 8: El usuario ingresa un numero del 1 al 50 (se verifica la correcta i
 123...
 
 Ejercicio 9: Se muestran por pantalla todos los numeros del 1 al 500 y se indican cuales son multiplos de 4 y de 9, se coloca una linea de separacion cada 5 numeros.
+
+Ejercicio 10: El usuario ingresa un numero de filas y un numero de columnas (ambas deben ser mayores a 1 y menores que 50) luego se muestra por pantalla una tabla con todos los numeros que abarca dicha tabla.
