@@ -13,3 +13,9 @@ Ejercicio 5: El usuario ingresa su documento (el cual se comprueba que se ingres
 Ejercicio 6: El usuario ingresa un numero del 1 al 30 (se verifica la correcta insercion del dato) y luego se arma una piramide creciente desde el numero 1 hasta el numero ingresado por el usuario.
 
 Ejercicio 7: El usuario ingresa un numero del 1 al 50 (se verifica la correcta insercion del dato) y luego se arma una piramide decreciente desde el numero que el usuario ingreso hasta el numero 1.
+
+Ejercicio 8: El usuario ingresa un numero del 1 al 50 (se verifica la correcta insercion del dato) y luego se armara una piramide creciente desde el 1 hasta el numero que el usuario ingreso. La piramide se arma de la forma:
+1
+12
+123
+123...
