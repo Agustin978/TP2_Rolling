@@ -25,3 +25,5 @@ Ejercicio 9: Se muestran por pantalla todos los numeros del 1 al 500 y se indica
 Ejercicio 10: El usuario ingresa un numero de filas y un numero de columnas (ambas deben ser mayores a 1 y menores que 50) luego se muestra por pantalla una tabla con todos los numeros que abarca dicha tabla.
 
 Ejercicio 11: El usuario ingresara una cantidad de personas (del 1 al 10) luego ingresara los datos de cada uno (el programa tiene sus respectivas verificaciones para el correcto ingreso de los datos) y luego se determinara cual de las personas ingresadas es la mayor.
+
+Ejercicio 12: Se muestra un valor aleatorio entre 1 y 99.
