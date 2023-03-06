@@ -35,3 +35,5 @@ Ejercicio 14: El usuario ingresa una palabra o frase y luego se muestra la misma
 Ejercicio 15: El usuario ingresa una palabra o frase y luego el programa contara las vocales que se encuentran en la misma.
 
 Ejercicio 16: El usuario ingresa una palabra o frase (de una longitud considerable) y luego se muestra por pantalla la misma invertida.
+
+Ejercicio 17: El usuario ingresa una palabra o frase y luego se muestra por pantalla la misma junto con la primera vocal hallado en la frase.
