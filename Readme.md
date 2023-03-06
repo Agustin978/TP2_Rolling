@@ -27,3 +27,5 @@ Ejercicio 10: El usuario ingresa un numero de filas y un numero de columnas (amb
 Ejercicio 11: El usuario ingresara una cantidad de personas (del 1 al 10) luego ingresara los datos de cada uno (el programa tiene sus respectivas verificaciones para el correcto ingreso de los datos) y luego se determinara cual de las personas ingresadas es la mayor.
 
 Ejercicio 12: Se muestra un valor aleatorio entre 1 y 99.
+
+Ejercicio 13: El usuario ingresa una palabra o frase y luego se mostrara por pantalla la misma en mayusculas.
