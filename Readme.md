@@ -31,3 +31,5 @@ Ejercicio 12: Se muestra un valor aleatorio entre 1 y 99.
 Ejercicio 13: El usuario ingresa una palabra o frase y luego se mostrara por pantalla la misma en mayusculas.
 
 Ejercicio 14: El usuario ingresa una palabra o frase y luego se muestra la misma separando caracter por caracter por un -.
+
+Ejercicio 15: El usuario ingresa una palabra o frase y luego el programa contara las vocales que se encuentran en la misma.
